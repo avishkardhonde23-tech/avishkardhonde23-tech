@@ -44,18 +44,6 @@ Role-based feedback platform with structured workflow and data management.
 
 ---
 
-## 🎯 Currently Learning
-
-- Spring Security
-- Microservices Architecture
-- Docker
-- AWS Cloud
-- System Design
-
----
-
-
-
 ## 🤝 Connect With Me
 
 <p align="center">
