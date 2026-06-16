@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Avishkar Dhonde 👋
 
-<!--
-**avishkardhonde23-tech/avishkardhonde23-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Developer
 
-Here are some ideas to get you started:
+🚀 Passionate about building REST APIs and scalable backend systems using Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- Maven
+- Git & GitHub
+
+## Featured Projects
+
+### 🎵 Music Streaming Backend
+Backend service for music streaming platform.
+
+### 🎓 Student API Project
+CRUD API for student management.
+
+### 💰 Expense Tracker
+Application for tracking expenses and financial records.
+
+### 📝 Feedback Management System
+Role-based feedback management application.
+
+## Currently Learning
+
+- Spring Security
+- Microservices
+- Docker
+- AWS
+
+## Connect With Me
+
+📧 avishkardhonde23@gmail.com
