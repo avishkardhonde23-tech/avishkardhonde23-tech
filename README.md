@@ -30,8 +30,8 @@
 
 ## 🚀 Featured Projects
 
-### 🎵 Music Streaming Backend
-A backend application for managing songs, playlists, and user interactions.
+### 📝 Feedback Management System
+Role-based feedback platform with structured workflow and data management.
 
 ### 🎓 Student Management API
 RESTful CRUD API built using Spring Boot and MySQL.
@@ -39,8 +39,8 @@ RESTful CRUD API built using Spring Boot and MySQL.
 ### 💰 Expense Tracker
 Backend-driven application for managing personal expenses and financial records.
 
-### 📝 Feedback Management System
-Role-based feedback platform with structured workflow and data management.
+### 🎵 Music Streaming Backend
+A backend application for managing songs, playlists, and user interactions.
 
 ---
 
